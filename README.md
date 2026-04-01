@@ -12,7 +12,7 @@ As penas foram estruturadas de forma detalhada, sendo separadas em colunas disti
 - dias  
 
 Por exemplo, uma pena de **1 ano, 3 meses e 2 dias** é representada como:
-1,3,2
+- 1,3,2
 
 ---
 
